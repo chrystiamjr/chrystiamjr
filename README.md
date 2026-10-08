@@ -27,22 +27,9 @@ Frontend & mobile architecture · Design Systems · AI-assisted engineering work
 - 🎓 Currently pursuing a **Postgraduate Degree in Applied AI Engineering** (Coders University)
 - 🌱 Growing toward **technical leadership and architecture**
 
-## 💼 Selected professional work
-
-Most of my work lives in private company repositories, so here is what it delivered:
-
-| Where | What | Impact |
-|---|---|---|
-| **Ubiminds** · US-based home services marketplace | Cross-platform Design System with React Native, RN Web, TypeScript, Storybook, Vite | Consistent UI and component reuse across web and mobile |
-| **Ubiminds** | Expo OTA-based **DevBox** workflow for mobile apps | Fewer full native builds; ephemeral testing environments |
-| **Ubiminds** | Feature flag mocking layer for QA and CI | Deterministic Cypress, Maestro, API, and mobile E2E tests |
-| **Ubiminds** | Reusable Laravel/GraphQL auth patterns: guards, directives, component-to-component JWT | Shared, secure auth building blocks across services |
-| **Ubiminds** | Customer Web foundation: structure, routing, validation, responsiveness | Engineering standards adopted by the team |
-| **Envolvo Systems** | Consulting across web, mobile, backend, and delivery planning | Complex requests broken into small, testable, high-impact tickets |
-| **Philips** · Healthcare EMR | Async + parallel spreadsheet import in Java | **~12–15 min → ~1.5 min** for files up to 1.5 GB |
-| **Tecnofit** | Microservices, Hasura integrations, Tableau dashboards, internal CLIs | Faster local setup and better product visibility |
-
 ## 🚀 Featured projects
+
+> 💼 Most of my professional work lives in private company repositories. See my experience on [LinkedIn](https://www.linkedin.com/in/chrystiam-nascimento-junior).
 
 | Project | Description | Stack |
 |---|---|---|
